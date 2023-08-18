@@ -12,17 +12,9 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/binkuolo/fastapi?style=social">
 </p>
 
-# 学习资料
+# Run
 
-> [gitee 仓库](https://gitee.com/binkuolo/fastapi)
-
-> [哔哩哔哩视频教程](https://www.bilibili.com/video/BV13F411u76R)
-
-> [笔记](https://wiki.binkuolo.com)
-
-
-> [演示站点admin密码123456](http://fastapi.binkuolo.com)
-
-> 感谢大家的一键三连和赞助支持! (若二维码过期请通过各种渠道通知我)
-
-<img src="IMG_1516.JPG" title="微信交流群" alt="微信群定期更新" width="200" height="260" />
+```
+uvicorn app:app --reload
+```
+#
